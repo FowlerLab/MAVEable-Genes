@@ -1,0 +1,8 @@
+# Large ClinVar source file — download from NCBI FTP (see README)
+variant_summary_*.txt.gz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
